@@ -1,4 +1,5 @@
 package priority;
+//Linked list data structure
 public class linkedList {
 	private node head;
 	private node tail;
